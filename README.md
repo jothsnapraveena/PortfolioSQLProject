@@ -10,9 +10,6 @@ This repository contains SQL queries and scripts for exploring COVID-19 data to 
 - [Introduction](#introduction)
 - [Data Source](#data-source)
 - [Usage](#usage)
-- [Queries and Analysis](#queries-and-analysis)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

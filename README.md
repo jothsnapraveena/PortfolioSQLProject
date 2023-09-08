@@ -3,7 +3,7 @@
 ![COVID-19](https://img.shields.io/badge/COVID--19-Data%20Exploration-blue)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-brightgreen)
 
-This repository contains SQL queries and scripts for exploring COVID-19 data to gain insights and perform various analyses. The data used in this project is sourced from [your_data_source_here], and it provides information about cases, deaths, recoveries, and other relevant metrics related to the COVID-19 pandemic.
+This repository contains SQL queries and scripts for exploring COVID-19 data to gain insights and perform various analyses. The data used in this project is sourced from https://ourworldindata.org/covid-deaths and it provides information about cases, deaths, recoveries, and other relevant metrics related to the COVID-19 pandemic.
 
 ## Table of Contents
 
